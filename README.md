@@ -1,5 +1,6 @@
-## Robust Ecologies Lab 👋
-# Exploring how transiency begets persistence
+# **Robust Ecologies Lab**
+
+## *Exploring how transiency begets persistence*
 
 <!--
 **robustecolab/robustecolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
