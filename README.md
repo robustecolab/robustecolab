@@ -2,7 +2,7 @@
 
 ## *Exploring how transiency begets persistence*
 
-The new page is located in https://robustecologies.github.io/
+The new webpage is located in https://robustecologies.github.io/
 
 <!--
 **robustecolab/robustecolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
